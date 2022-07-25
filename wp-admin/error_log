@@ -1,0 +1,121 @@
+[21-Oct-2021 07:12:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 07:23:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 07:34:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 08:45:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 08:48:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 08:50:51 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[21-Oct-2021 08:51:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 08:51:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 09:26:27 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[21-Oct-2021 09:26:47 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[21-Oct-2021 09:33:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/class-params.php on line 845
+[21-Oct-2021 09:38:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057920 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 09:40:28 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/admin/importer/parsers.php on line 74
+[21-Oct-2021 09:40:28 UTC] PHP Warning:  gzopen(): Filename cannot be empty in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/admin/importer/parsers.php on line 746
+[21-Oct-2021 09:44:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057920 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 09:45:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057920 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 09:51:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057920 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 09:52:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057920 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 09:59:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057920 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:03:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:05:05 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[21-Oct-2021 10:05:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:12:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:15:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:16:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28057600 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:24:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:28:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:30:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:42:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:49:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:51:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 10:55:19 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[21-Oct-2021 10:55:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28058024 bytes) in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+[21-Oct-2021 12:32:50 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[21-Oct-2021 12:32:50 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 06:35:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save() on bool in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/builders/elementor/class-importer.php:501
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/builders/elementor/class-importer.php(164): Aheto\Elementor\Importer->save_item(Array, false, true, Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/admin/class-import.php(165): Aheto\Elementor\Importer->import_template_page(Array, '36345', 'page', false)
+#2 /home/webmobit/public_html/hotel_website/wp-includes/class-wp-hook.php(303): Aheto\Admin\Import->import_template('')
+#3 /home/webmobit/public_html/hotel_website/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/webmobit/public_html/hotel_website/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#5 /home/webmobit/public_html/hotel_website/wp-admin/admin-ajax.php(187): do_action('wp_ajax_aheto_i...')
+#6 {main}
+  thrown in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/builders/elementor/class-importer.php on line 501
+[10-Nov-2021 06:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_default_args() on array in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php:81
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(857): Elementor\Elements_Manager->create_element_instance(Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(540): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#2 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/modules/library/documents/library-document.php(65): Elementor\Core\Base\Document->get_initial_config()
+#3 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/base/controls-stack.php(997): Elementor\Modules\Library\Documents\Library_Document->get_initial_config()
+#4 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/editor/editor.php(528): Elementor\Controls_Stack->get_config()
+#5 in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php on line 81
+[10-Nov-2021 06:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_default_args() on array in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php:81
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(857): Elementor\Elements_Manager->create_element_instance(Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(540): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#2 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/modules/library/documents/library-document.php(65): Elementor\Core\Base\Document->get_initial_config()
+#3 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/base/controls-stack.php(997): Elementor\Modules\Library\Documents\Library_Document->get_initial_config()
+#4 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/editor/editor.php(528): Elementor\Controls_Stack->get_config()
+#5 in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php on line 81
+[10-Nov-2021 06:44:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_default_args() on array in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php:81
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(857): Elementor\Elements_Manager->create_element_instance(Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(540): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#2 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/modules/library/documents/library-document.php(65): Elementor\Core\Base\Document->get_initial_config()
+#3 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/base/controls-stack.php(997): Elementor\Modules\Library\Documents\Library_Document->get_initial_config()
+#4 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/editor/editor.php(528): Elementor\Controls_Stack->get_config()
+#5 in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php on line 81
+[10-Nov-2021 06:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_default_args() on array in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php:81
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(857): Elementor\Elements_Manager->create_element_instance(Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(540): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#2 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/modules/library/documents/library-document.php(65): Elementor\Core\Base\Document->get_initial_config()
+#3 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/base/controls-stack.php(997): Elementor\Modules\Library\Documents\Library_Document->get_initial_config()
+#4 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/editor/editor.php(528): Elementor\Controls_Stack->get_config()
+#5 in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php on line 81
+[10-Nov-2021 06:47:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_default_args() on array in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php:81
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(857): Elementor\Elements_Manager->create_element_instance(Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(540): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#2 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/modules/library/documents/library-document.php(65): Elementor\Core\Base\Document->get_initial_config()
+#3 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/base/controls-stack.php(997): Elementor\Modules\Library\Documents\Library_Document->get_initial_config()
+#4 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/editor/editor.php(528): Elementor\Controls_Stack->get_config()
+#5 in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php on line 81
+[10-Nov-2021 06:47:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_default_args() on array in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php:81
+Stack trace:
+#0 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(857): Elementor\Elements_Manager->create_element_instance(Array)
+#1 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/base/document.php(540): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#2 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/modules/library/documents/library-document.php(65): Elementor\Core\Base\Document->get_initial_config()
+#3 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/base/controls-stack.php(997): Elementor\Modules\Library\Documents\Library_Document->get_initial_config()
+#4 /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/core/editor/editor.php(528): Elementor\Controls_Stack->get_config()
+#5 in /home/webmobit/public_html/hotel_website/wp-content/plugins/elementor/includes/managers/elements.php on line 81
+[10-Nov-2021 06:54:08 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 06:56:19 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 06:59:16 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 07:02:13 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 07:03:04 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 07:03:12 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 07:03:33 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 07:04:28 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 07:04:53 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 10:07:47 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[10-Nov-2021 10:32:51 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/webmobit/public_html/hotel_website/wp-content/plugins/aheto/includes/css-generators/abstract-css-generator.php on line 257
+[22-Nov-2021 06:27:01 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/dunyafunction/public_html/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php on line 9
+[22-Nov-2021 06:28:42 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/dunyafunction/public_html/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php on line 9
+[22-Nov-2021 06:29:50 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[22-Nov-2021 06:29:51 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[22-Nov-2021 06:29:51 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[22-Nov-2021 06:32:20 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[22-Nov-2021 06:39:13 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[22-Nov-2021 06:42:10 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[22-Nov-2021 06:55:41 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dunyafunction/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 57
+[23-Nov-2021 04:11:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of PHPMailer\PHPMailer\PHPMailer given, called in /home/dunyafunction/public_html/wp-includes/class-wp-hook.php on line 303 and defined in /home/dunyafunction/public_html/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /home/dunyafunction/public_html/wp-includes/class-wp-hook.php(303): cost_calculator_phpmailer_init(Object(PHPMailer\PHPMailer\PHPMailer))
+#1 /home/dunyafunction/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dunyafunction/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#3 /home/dunyafunction/public_html/wp-includes/pluggable.php(538): do_action_ref_array('phpmailer_init', Array)
+#4 /home/dunyafunction/public_html/wp-includes/user.php(2305): wp_mail(Array, '[Hotel Website]...', 'Hi admin,\n\nThis...', Array)
+#5 /home/dunyafunction/public_html/wp-admin/includes/user.php(227): wp_update in /home/dunyafunction/public_html/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
